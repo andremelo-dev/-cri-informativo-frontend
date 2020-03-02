@@ -1,0 +1,46 @@
+.fechar{position: absolute; right: 0; color: white !important; font-weight: bold;}
+
+#bg-login{
+    position: relative;
+    height:100%;
+    width: 100%;
+    background: #A78333 !important;
+}
+
+.caixa{ 
+  border:1px solid rgb(65,67,76); 
+  border-radius: 10px;
+  background: white;
+  display: block;
+  width: 500px;
+  height: 450px;
+  position: absolute;
+  left: 50%;
+  margin-left: -250px;
+  top:50%;
+  margin-top:-225px;  
+  padding: 10px;
+  box-shadow: 2px 2px 6px 2px #444;
+}
+
+.caixa figure{
+    position: relative;
+    display: block;
+    padding-top:50px;
+    padding: 10px;
+}
+
+.caixa figure img{
+    width: 100%;
+}
+
+.caixa form{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.caixa form label{
+    width: 100%;
+}
+
+.caixa button{ width: 100%;}

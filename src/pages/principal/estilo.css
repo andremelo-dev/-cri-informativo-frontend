@@ -1,0 +1,12 @@
+body{
+    background: #f4f4f4;
+}
+
+.card{ margin-top: 15px;}
+
+.card-text{  white-space: nowrap;
+    width: 100%;                   
+    overflow: hidden;             
+    -o-text-overflow: ellipsis;   
+    text-overflow:    ellipsis;    
+}
